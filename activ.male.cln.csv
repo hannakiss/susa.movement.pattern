@@ -1,0 +1,902 @@
+id,megjegy,sex,age,body,proc,aktiv,date,body.size,activity
+69,OK,m,juvenil,9.55,1,patanyomban,2016-03-21,small,vegetation
+78,OK,m,juvenil,10.27,0.96,járat,2016-03-22,small,tunnel
+81,OK,m,juvenil,10.49,1.32,Achillea1,2016-03-22,small,feed_on
+88,OK,m,juvenil,10.61,1.19,járat,2016-03-22,small,tunnel
+189,OK,m,juvenil,10.34,1.19,ült,2016-03-25,small,vegetation
+204,OK,m,juvenil,10.22,1.49,járat,2016-03-29,small,tunnel
+220,OK,m,juvenil,10.46,1.32,járat,2016-03-29,small,tunnel
+229,OK,m,juvenil,9.37,0.89,mászott,2016-03-29,small,vegetation
+233,OK,m,juvenil,10.51,1.44,ásott,2016-03-29,small,dig
+252,OK,m,juvenil,10.57,1.97,ásott,2016-03-30,small,dig
+284,OK,m,juvenil,9.97,1.15,járat fű,2016-03-30,small,tunnel
+386,OK,m,juvenil,10.29,0.88,ásott,2016-03-31,small,dig
+390,OK,m,juvenil,10.22,1.18,patanyomban,2016-04-01,small,vegetation
+399,OK,m,juvenil,10.24,1.06,patanyomban,2016-04-01,small,vegetation
+402,OK,m,juvenil,10.42,1.42,ásott,2016-04-01,small,dig
+408,OK,m,juvenil,9.95,0.86,ült,2016-04-01,small,vegetation
+439,OK,m,old,10.24,1.06,járat,2016-04-01,small,tunnel
+474,OK,m,juvenil,10.37,1.37,járat,2016-04-03,small,tunnel
+564,OK,m,old,10.31,0.84,harc,2016-04-06,small,fight
+683,OK,m,old,9.57,0.86,682 copula!,2016-04-11,small,mating
+688,OK,m,old,10.31,1.09,ült,2016-04-11,small,vegetation
+708,OK,m,old,10.67,1.2,járat,2016-04-11,small,tunnel
+731,OK,m,old,10.27,0.9,járat,2016-04-12,small,tunnel
+745,OK,m,juvenil,10.45,1.21,járat,2016-04-12,small,tunnel
+755,OK,m,juvenil,10.33,1.23,ült,2016-04-12,small,vegetation
+770,OK,m,old,10.17,1.04,ült,2016-04-12,small,vegetation
+818,OK,m,juvenil,10.65,1.05,mászott,2016-04-13,small,vegetation
+835,OK,m,old,9.72,1.05,ült,2016-04-13,small,vegetation
+841,OK,m,intermediate,10.68,1.12,790-járat,2016-04-13,small,tunnel
+963,OK,m,juvenil,10.41,1.33,járat néző,2016-04-16,small,vegetation
+1003,OK,m,juvenil,10.63,1.54,pókolt,2016-04-17,small,mating
+1082,OK,m,juvenil,10.4,0.99,mászott,2016-04-20,small,vegetation
+1106,OK,m,juvenil,10.66,1.65,ült,2016-04-21,small,vegetation
+1133,OK,m,juvenil,10.58,1.14,Harc 1134 vesztett,2016-04-21,small,fight
+1171,OK,m,juvenil,9.8,0.86,mászott,2016-04-22,small,vegetation
+1182,OK,m,juvenil,10.35,1.12,ült,2016-04-22,small,vegetation
+1189,OK,m,juvenil,10.13,1.43,mászott,2016-04-22,small,vegetation
+1288,OK,m,juvenil,9.79,1.19,K1 járat,2016-05-02,small,tunnel
+1297,OK,m,old,9.83,0.87,ült,2016-05-02,small,vegetation
+1318,OK,m,juvenil,10.51,1.18,mászott,2016-05-02,small,vegetation
+1345,XY,m,juvenil,10.51,1.54,ült,2016-05-02,small,vegetation
+1375,OK,m,old,10.58,1.33,mászott,2016-05-03,small,vegetation
+1398,OK,m,juvenil,9.91,0.79,ült,2016-05-03,small,vegetation
+1414,OK,m,juvenil,9.77,0.7,ült,2016-05-03,small,vegetation
+1460,OK,m,intermediate,10.38,1.14,levél,2016-05-04,small,feed_on
+1466,OK,m,juvenil,10.66,1.62,pókolt 1467-nek,2016-05-04,small,mating
+1471,OK,m,juvenil,10.15,0.87,mászott,2016-05-04,small,vegetation
+1488,OK,m,juvenil,10.67,1.22,harc 655-tel,2016-05-04,small,fight
+1515,OK,m,intermediate,10.56,1.09,járat,2016-05-05,small,tunnel
+1542,OK,m,juvenil,10.58,1.21,mászott,2016-05-05,small,vegetation
+1581,NEWN,m,juvenil,10.18,0.7,mászott,2016-05-06,small,vegetation
+1643,OK,m,juvenil,10.2,1.07,ült,2016-05-07,small,vegetation
+1653,OK,m,juvenil,10.68,1.02,ült,2016-05-07,small,vegetation
+1661,OK,m,juvenil,10.65,1.15,mászott,2016-05-07,small,vegetation
+1670,OK,m,juvenil,10.67,1.29,mászott,2016-05-12,small,vegetation
+1725,OK,m,juvenil,10.45,1.06,mászott,2016-05-16,small,vegetation
+1763,OK,m,juvenil,10.59,1.11,mászott,2016-05-18,small,vegetation
+1765,OK,m,juvenil,10.24,1.08,mászott,2016-05-19,small,vegetation
+1777,OK,m,juvenil,10.62,1.03,járat,2016-05-19,small,tunnel
+13,OK,m,juvenil,12.15,3.53,mélyedés,2016-03-17,med,vegetation
+19,OK,m,juvenil,12.06,3.31,mászott,2016-03-18,med,vegetation
+21,OK,m,juvenil,12.04,3.16,járat,2016-03-18,med,tunnel
+23,OK,m,juvenil,12.03,3.18,mászott,2016-03-18,med,vegetation
+25,OK,m,juvenil,11.32,1.77,ült,2016-03-18,med,vegetation
+26,OK,m,juvenil,12,3.21,ült,2016-03-18,med,vegetation
+38,OK,m,juvenil,11.64,3.4,ásott,2016-03-18,med,dig
+42,OK,m,juvenil,11.43,1.78,járat,2016-03-21,med,tunnel
+43,OK,m,juvenil,12.1,3.2,mászott,2016-03-21,med,vegetation
+47,OK,m,juvenil,12.09,3.64,patanyomban,2016-03-21,med,vegetation
+49,OK,m,juvenil,11.93,3.72,járat,2016-03-21,med,tunnel
+50,OK,m,juvenil,10.97,1.81,patanyomban,2016-03-21,med,vegetation
+52,OK,m,juvenil,11.6,2.36,patanyomban,2016-03-21,med,vegetation
+60,OK,m,juvenil,12.06,3.56,járat,2016-03-21,med,tunnel
+62,OK,m,juvenil,12.28,3.35,fű,2016-03-21,med,feed_on
+65,OK,m,juvenil,12.24,3.8,járat,2016-03-21,med,vegetation
+67,OK,m,juvenil,11.19,2.12,Achillea,2016-03-21,med,feed_on
+70,OK,m,juvenil,10.97,2.55,ült,2016-03-21,med,vegetation
+71,OK,m,juvenil,11.82,3.63,ásott,2016-03-21,med,dig
+76,OK,m,juvenil,12,3.36,ásott,2016-03-21,med,dig
+79,OK,m,juvenil,11.94,3.2,járat,2016-03-22,med,tunnel
+85,OK,m,juvenil,11.58,2.35,mászott,2016-03-22,med,vegetation
+90,OK,m,juvenil,12.24,3.45,Achillea járat,2016-03-22,med,feed_on
+93,OK,m,juvenil,11.7,3.04,járat,2016-03-22,med,tunnel
+95,OK,m,juvenil,11.71,3.35,levél,2016-03-22,med,feed_on
+104,OK,m,juvenil,11.77,2,járat,2016-03-22,med,tunnel
+105,OK,m,juvenil,11.92,3.13,fű,2016-03-22,med,feed_on
+138,OK,m,juvenil,12.29,3.1,járat,2016-03-24,med,tunnel
+141,OK,m,juvenil,12.31,3.31,Elzavarta 140-est,2016-03-24,med,fight
+143,OK,m,juvenil,12.14,3.57,ült,2016-03-24,med,vegetation
+148,OK,m,juvenil,11.6,2.04,mászott,2016-03-24,med,vegetation
+152,OK,m,juvenil,12.15,3.3,ült,2016-03-24,med,vegetation
+159,OK,m,juvenil,11.84,2.67,fű,2016-03-25,med,feed_on
+160,OK,m,juvenil,11.98,3,mászott,2016-03-25,med,vegetation
+161,OK,m,juvenil,11.97,3.26,járat,2016-03-25,med,tunnel
+163,OK,m,juvenil,10.8,1.55,járat,2016-03-25,med,tunnel
+173,OK,m,juvenil,12.23,3.56,mászott,2016-03-25,med,vegetation
+175,OK,m,juvenil,12.26,3.18,járat,2016-03-25,med,tunnel
+176,OK,m,juvenil,11.96,2.59,ült,2016-03-25,med,vegetation
+177,OK,m,juvenil,11.34,1.2,ült,2016-03-25,med,vegetation
+180,OK,m,juvenil,11.81,3.05,levél,2016-03-25,med,feed_on
+182,OK,m,old,10.69,1.08,járat,2016-03-25,med,tunnel
+185,OK,m,juvenil,12.12,3.02,patanyomban,2016-03-25,med,vegetation
+188,OK,m,juvenil,12.25,2.78,ásott,2016-03-25,med,dig
+193,OK,m,juvenil,12.26,3.01,mászott,2016-03-25,med,vegetation
+199,OK,m,juvenil,12.31,3.31,200-199,2016-03-29,med,fight
+202,OK,m,juvenil,12.09,3.23,járat,2016-03-29,med,tunnel
+203,OK,m,juvenil,12.32,3.41,mászott,2016-03-29,med,vegetation
+207,OK,m,juvenil,11.07,1.64,járat,2016-03-29,med,tunnel
+208,OK,m,juvenil,11.13,1.93,ült,2016-03-29,med,vegetation
+211,OK,m,juvenil,10.79,1.13,ült,2016-03-29,med,vegetation
+212,OK,m,juvenil,11.79,2.39,járat,2016-03-29,med,tunnel
+213,DEATH,m,juvenil,11.46,2.21,járat,2016-03-29,med,tunnel
+215,OK,m,juvenil,12.13,3.31,járat,2016-03-29,med,tunnel
+219,OK,m,juvenil,11.58,2.61,járat,2016-03-29,med,tunnel
+222,OK,m,juvenil,11.44,1.73,járat,2016-03-29,med,tunnel
+226,OK,m,juvenil,11.61,2,ült,2016-03-29,med,vegetation
+239,OK,m,old,11.24,2.2,járat,2016-03-29,med,tunnel
+262,OK,m,juvenil,11.41,2.23,járat,2016-03-30,med,tunnel
+264,OK,m,juvenil,11.8,2.77,járat,2016-03-30,med,tunnel
+266,OK,m,juvenil,10.85,1.86,járat,2016-03-30,med,tunnel
+275,OK,m,juvenil,11.96,3.15,járat,2016-03-30,med,tunnel
+276,OK,m,juvenil,10.75,1.41,ásott,2016-03-30,med,dig
+277,OK,m,juvenil,12.13,3.35,járat,2016-03-30,med,tunnel
+287,OK,m,juvenil,11.23,1.76,mászott,2016-03-30,med,vegetation
+298,OK,m,juvenil,12.21,3.74,járat,2016-03-30,med,tunnel
+304,OK,m,old,11.72,2.43,ásott,2016-03-30,med,dig
+306,OK,m,juvenil,12.08,2.12,mászott,2016-03-30,med,vegetation
+309,OK,m,juvenil,12.32,3.71,mászott,2016-03-30,med,vegetation
+310,OK,m,juvenil,11.02,1.26,ült,2016-03-30,med,vegetation
+311,OK,m,juvenil,11.76,3.19,járat,2016-03-30,med,tunnel
+312,OK,m,juvenil,11.95,2.38,járat,2016-03-30,med,tunnel
+314,OK,m,juvenil,12.22,3.63,járat,2016-03-30,med,tunnel
+323,DEATH,m,juvenil,12.08,3.27,járat,2016-03-30,med,tunnel
+326,OK,m,juvenil,12.26,3.15,ült,2016-03-30,med,vegetation
+329,DEATH,m,juvenil,11.95,3.32,járat ült,2016-03-31,med,tunnel
+331,OK,m,juvenil,12.05,3.22,patanyomban,2016-03-31,med,vegetation
+332,OK,m,juvenil,11.65,3.11,ült,2016-03-31,med,vegetation
+336,OK,m,juvenil,12.23,2.56,járat,2016-03-31,med,tunnel
+340,OK,m,old,12.25,3.34,járat,2016-03-31,med,tunnel
+353,OK,m,juvenil,11.82,3.45,mászott,2016-03-31,med,vegetation
+354,OK,m,juvenil,11.31,1.92,járat,2016-03-31,med,tunnel
+356,OK,m,juvenil,12.05,2.63,járat,2016-03-31,med,tunnel
+372,OK,m,juvenil,11.17,1.71,járat,2016-03-31,med,tunnel
+376,OK,m,juvenil,11.74,1.93,járat,2016-03-31,med,tunnel
+387,OK,m,juvenil,10.73,0.99,ült,2016-04-01,med,vegetation
+388,OK,m,juvenil,12.23,3.57,járat,2016-04-01,med,tunnel
+392,OK,m,juvenil,12.26,3.44,ült,2016-04-01,med,vegetation
+393,OK,m,juvenil,12.02,3.2,járat,2016-04-01,med,tunnel
+394,OK,m,juvenil,11.47,NA,ült,2016-04-01,med,vegetation
+397,OK,m,juvenil,10.72,1.21,ásott,2016-04-01,med,dig
+398,OK,m,juvenil,11.54,2.55,ült,2016-04-01,med,vegetation
+400,OK,m,intermediate,12.27,3.51,ásott,2016-04-01,med,dig
+401,OK,m,juvenil,11.08,1.89,fű,2016-04-01,med,feed_on
+405,OK,m,juvenil,10.82,1.43,járat,2016-04-01,med,tunnel
+407,OK,m,juvenil,11.78,2.53,járat,2016-04-01,med,tunnel
+411,OK,m,juvenil,10.71,1.3,ásott,2016-04-01,med,dig
+413,OK,m,juvenil,12.13,2.91,ásott,2016-04-01,med,dig
+421,DEATH,m,juvenil,11.18,2.15,patanyomban,2016-04-01,med,vegetation
+422,OK,m,juvenil,11.85,3.04,ült,2016-04-01,med,vegetation
+425,OK,m,juvenil,11.82,3.56,járat,2016-04-01,med,tunnel
+431,OK,m,old,10.74,1.14,járat,2016-04-01,med,tunnel
+432,OK,m,juvenil,11.87,2.39,járat,2016-04-01,med,tunnel
+435,OK,m,old,11.41,1.79,járat,2016-04-01,med,tunnel
+454,OK,m,juvenil,12.18,3.31,fű,2016-04-02,med,feed_on
+459,OK,m,juvenil,12.05,3.21,járat,2016-04-02,med,tunnel
+460,OK,m,juvenil,11.63,2.42,járat,2016-04-02,med,tunnel
+473,OK,m,juvenil,11.65,2.42,járat,2016-04-03,med,tunnel
+480,OK,m,juvenil,12.29,3.49,mászott,2016-04-03,med,vegetation
+482,OK,m,juvenil,11.89,3.01,481-el egy jár.,2016-04-03,med,tunnel
+488,OK,m,juvenil,12.15,3.42,járat,2016-04-03,med,tunnel
+498,OK,m,juvenil,11.07,1.3,ásott,2016-04-03,med,dig
+500,OK,m,old,12.15,3.66,járat,2016-04-03,med,tunnel
+506,OK,m,juvenil,11.77,2.54,mászott,2016-04-03,med,vegetation
+509,OK,m,intermediate,12.26,3.69,ült,2016-04-03,med,vegetation
+515,OK,m,juvenil,12.26,3.17,ült,2016-04-06,med,vegetation
+525,OK,m,juvenil,10.97,1.53,járat,2016-04-06,med,tunnel
+533,OK,m,juvenil,12.11,3.05,járat,2016-04-06,med,tunnel
+543,OK,m,juvenil,11.8,2.24,járat,2016-04-06,med,tunnel
+549,OK,m,old,12.11,3.03,járat,2016-04-06,med,tunnel
+552,OK,m,intermediate,12.07,2.97,harc,2016-04-06,med,fight
+553,OK,m,old,10.99,1.6,harc,2016-04-06,med,fight
+560,OK,m,old,11.01,1.37,járat,2016-04-06,med,tunnel
+563,OK,m,old,12.2,2.74,harc,2016-04-06,med,fight
+565,OK,m,juvenil,11.01,1.76,479-es járatába,2016-04-06,med,tunnel
+570,OK,m,juvenil,11.03,1.35,járat,2016-04-06,med,tunnel
+572,OK,m,juvenil,12.03,3.09,ült,2016-04-06,med,vegetation
+573,OK,m,juvenil,12.03,3.47,járat,2016-04-06,med,tunnel
+582,OK,m,juvenil,12.18,3.1,járat,2016-04-06,med,tunnel
+602,OK,m,juvenil,12.29,2.92,mászott,2016-04-07,med,vegetation
+612,OK,m,old,12.26,3.54,ült,2016-04-07,med,vegetation
+613,OK,m,intermediate,11.87,3.09,ült,2016-04-07,med,vegetation
+617,OK,m,old,11,1.69,párzás próba,2016-04-07,med,mating
+619,OK,m,juvenil,11.66,2.13,ült,2016-04-07,med,vegetation
+620,OK,m,old,11.07,1.51,344 járatába,2016-04-07,med,tunnel
+622,OK,m,juvenil,11.65,1.73,járat,2016-04-07,med,tunnel
+626,OK,m,intermediate,12.03,3.27,járat,2016-04-07,med,tunnel
+628,OK,m,old,10.82,1.69,mászott,2016-04-07,med,vegetation
+633,OK,m,old,11.66,2.55,harc,2016-04-07,med,fight
+634,OK,m,old,11.99,3.23,harc,2016-04-07,med,fight
+636,OK,m,old,11.65,2.18,ült,2016-04-07,med,vegetation
+638,OK,m,intermediate,12.32,3.63,párzás próba,2016-04-07,med,mating
+640,OK,m,old,12.19,3.14,járat,2016-04-07,med,tunnel
+643,OK,m,old,11.62,1.87,mászott,2016-04-07,med,vegetation
+649,OK,m,juvenil,11.94,2.81,járat,2016-04-11,med,tunnel
+650,OK,m,juvenil,11.92,2.57,járat,2016-04-11,med,tunnel
+651,OK,m,old,12.13,3.24,ült,2016-04-11,med,vegetation
+655,OK,m,old,11.01,1.48,ásott,2016-04-11,med,dig
+656,OK,m,old,11.85,3.39,járat,2016-04-11,med,tunnel
+660,OK,m,juvenil,11.86,2.8,ült,2016-04-11,med,vegetation
+662,OK,m,old,11.26,1.75,ült,2016-04-11,med,vegetation
+667,OK,m,juvenil,11.75,2.22,járat,2016-04-11,med,tunnel
+672,OK,m,old,11.05,1.74,Járat 354,2016-04-11,med,tunnel
+675,OK,m,juvenil,11.32,1.8,ült,2016-04-11,med,vegetation
+676,OK,m,old,11.52,1.84,ült,2016-04-11,med,vegetation
+678,OK,m,old,11.25,1.6,ült,2016-04-11,med,vegetation
+691,OK,m,old,11.14,1.6,mászott,2016-04-11,med,vegetation
+692,OK,m,old,11.89,2.88,693 járat,2016-04-11,med,tunnel
+699,OK,m,juvenil,11.17,2.07,ült,2016-04-11,med,vegetation
+701,OK,m,old,11.85,2.52,ült,2016-04-11,med,vegetation
+705,OK,m,juvenil,11.93,2.81,járat,2016-04-11,med,tunnel
+706,OK,m,juvenil,12.27,3.69,ült,2016-04-11,med,vegetation
+707,OK,m,juvenil,11,1.56,ült,2016-04-11,med,vegetation
+718,OK,m,old,11.62,2.6,járat,2016-04-11,med,tunnel
+723,OK,m,intermediate,11.57,2.08,ült,2016-04-11,med,vegetation
+724,OK,m,old,11.9,2.34,Harc 725,2016-04-11,med,fight
+725,OK,m,juvenil,11.89,2.95,Harc 724 nyertes,2016-04-11,med,fight
+728,OK,m,intermediate,12.32,3.84,Harc 727 nyertes,2016-04-11,med,fight
+732,OK,m,juvenil,12.05,3.19,mászott,2016-04-12,med,vegetation
+741,OK,m,juvenil,12.09,3.33,57-járat,2016-04-12,med,tunnel
+746,OK,m,intermediate,10.96,1.75,patanyomban,2016-04-12,med,vegetation
+750,OK,m,juvenil,12.15,3.74,járat,2016-04-12,med,tunnel
+752,OK,m,juvenil,11.47,2.82,mászott,2016-04-12,med,vegetation
+761,OK,m,old,11.15,1.54,ólálkodás,2016-04-12,med,vegetation
+763,OK,m,juvenil,12.25,3.37,levél,2016-04-12,med,feed_on
+766,OK,m,juvenil,11.62,2.49,mászott,2016-04-12,med,vegetation
+776,OK,m,intermediate,11.21,1.39,járat,2016-04-12,med,tunnel
+777,OK,m,juvenil,12.32,3.29,járat,2016-04-12,med,tunnel
+779,OK,m,juvenil,12.23,2.74,járat,2016-04-12,med,tunnel
+783,OK,m,old,11.07,1.71,Harc 402 győzelem,2016-04-12,med,fight
+785,OK,m,old,11.89,2.69,buzulás,2016-04-12,med,mating
+790,OK,m,juvenil,11.78,3.25,járat,2016-04-12,med,tunnel
+792,OK,m,juvenil,11.02,1.57,járatkezdemény,2016-04-12,med,tunnel
+794,OK,m,juvenil,12.14,2.86,ült,2016-04-12,med,vegetation
+804,OK,m,juvenil,11.86,2.96,mászott,2016-04-13,med,vegetation
+807,OK,m,old,12.15,2.36,járat,2016-04-13,med,tunnel
+810,OK,m,intermediate,12.28,3.33,járat,2016-04-13,med,tunnel
+819,DEATH,m,intermediate,11.72,1.85,52-járat,2016-04-13,med,tunnel
+822,OK,m,juvenil,11.37,1.89,560-járat,2016-04-13,med,tunnel
+824,OK,m,juvenil,11.54,2.73,járat,2016-04-13,med,tunnel
+826,OK,m,juvenil,12.26,3.59,324-járat,2016-04-13,med,tunnel
+829,OK,m,juvenil,11,1.59,Nézte-830,2016-04-13,med,vegetation
+838,OK,m,old,10.92,1.68,párzás próba,2016-04-13,med,mating
+842,OK,m,juvenil,11.51,2.73,666-járat,2016-04-13,med,tunnel
+843,OK,m,intermediate,11.23,1.4,járat,2016-04-13,med,tunnel
+846,OK,m,juvenil,12.06,3.18,ült,2016-04-13,med,vegetation
+854,OK,m,juvenil,12.22,3.12,mászott,2016-04-13,med,vegetation
+856,OK,m,juvenil,12.18,2.9,ült,2016-04-13,med,vegetation
+862,OK,m,old,11.65,2.23,ült,2016-04-13,med,vegetation
+865,OK,m,juvenil,12.13,3.54,levél (fészkes),2016-04-15,med,feed_on
+868,OK,m,juvenil,12.08,3.03,högymál,2016-04-15,med,feed_on
+872,OK,m,juvenil,11.05,1.54,mászott,2016-04-15,med,vegetation
+876,OK,m,juvenil,12.31,3.51,járat,2016-04-15,med,tunnel
+892,OK,m,juvenil,12.03,3.05,ült,2016-04-15,med,vegetation
+893,OK,m,juvenil,11.58,2.47,mászott,2016-04-15,med,vegetation
+895,OK,m,juvenil,12.12,2.41,mászott,2016-04-15,med,vegetation
+897,OK,m,juvenil,11.15,1.71,ült,2016-04-15,med,vegetation
+898,OK,m,old,11.2,1.58,ült,2016-04-15,med,vegetation
+904,OK,m,juvenil,12.3,3.27,járat,2016-04-15,med,tunnel
+905,OK,m,juvenil,11.77,2.65,ült,2016-04-15,med,vegetation
+906,OK,m,juvenil,12.29,3.21,járat,2016-04-15,med,tunnel
+909,OK,m,juvenil,11.37,0,levél,2016-04-15,med,feed_on
+910,OK,m,juvenil,11.94,3.5,790-járat,2016-04-15,med,tunnel
+919,OK,m,old,11.7,2.56,ült,2016-04-15,med,vegetation
+922,OK,m,intermediate,11.9,3.06,járat,2016-04-15,med,tunnel
+923,OK,m,intermediate,11.97,3.18,mászott,2016-04-15,med,vegetation
+925,OK,m,intermediate,10.96,1.64,buzulás,2016-04-15,med,mating
+926,OK,m,juvenil,12.1,3.51,buzulás,2016-04-15,med,mating
+927,OK,m,intermediate,11.25,1.59,ült,2016-04-15,med,vegetation
+952,OK,m,juvenil,11.75,2.13,járat,2016-04-16,med,tunnel
+953,OK,m,juvenil,11.78,2.38,Járat 954-el,2016-04-16,med,tunnel
+957,OK,m,intermediate,12.28,3.39,ült,2016-04-16,med,vegetation
+959,OK,m,juvenil,12.1,2.92,harc960,2016-04-16,med,fight
+960,OK,m,juvenil,11.55,1.95,harc959,2016-04-16,med,fight
+967,OK,m,juvenil,10.78,1.97,ült,2016-04-16,med,vegetation
+969,OK,m,juvenil,12.09,3,járat,2016-04-16,med,tunnel
+970,OK,m,juvenil,12.32,3.48,járat,2016-04-16,med,tunnel
+975,OK,m,intermediate,11.68,2.95,ült,2016-04-16,med,vegetation
+976,OK,m,juvenil,12.21,2.2,ült,2016-04-16,med,vegetation
+979,OK,m,old,12.09,3.09,ült,2016-04-16,med,vegetation
+980,OK,m,old,11.3,1.92,57B+578 járat,2016-04-16,med,tunnel
+981,OK,m,old,12.32,3.53,járat,2016-04-16,med,tunnel
+988,OK,m,juvenil,11.9,3.23,járat,2016-04-17,med,tunnel
+995,OK,m,juvenil,11.2,2.11,mászott,2016-04-17,med,vegetation
+1032,OK,m,juvenil,11.96,3.25,járat,2016-04-17,med,tunnel
+1038,OK,m,juvenil,11.85,2.82,járat,2016-04-17,med,tunnel
+1047,OK,m,juvenil,11.76,2.46,mászott,2016-04-17,med,vegetation
+1056,OK,m,intermediate,12.29,3.41,járat örző,2016-04-20,med,tunnel
+1061,OK,m,juvenil,12.08,3.44,járat,2016-04-20,med,tunnel
+1065,OK,m,old,12.26,3.58,járat,2016-04-20,med,tunnel
+1069,OK,m,juvenil,12.22,3.18,750 járat,2016-04-20,med,tunnel
+1085,OK,m,juvenil,12.19,3.33,mászott,2016-04-20,med,vegetation
+1088,OK,m,intermediate,11.23,2.21,ült,2016-04-20,med,vegetation
+1089,OK,m,juvenil,10.69,1.57,ült,2016-04-20,med,vegetation
+1090,OK,m,juvenil,11.82,3.17,mászott,2016-04-20,med,vegetation
+1094,OK,m,juvenil,11.92,2.45,mászott,2016-04-20,med,vegetation
+1097,OK,m,juvenil,11.6,2.8,ült,2016-04-20,med,vegetation
+1107,OK,m,juvenil,12.08,3.6,mászott,2016-04-21,med,vegetation
+1109,DEATH,m,juvenil,11.91,2.69,333 járat,2016-04-21,med,tunnel
+1136,OK,m,juvenil,11.95,3.15,fű,2016-04-21,med,feed_on
+1143,OK,m,juvenil,11.17,2.83,Harc 1142,2016-04-21,med,fight
+1152,OK,m,juvenil,11.72,2.19,mászott,2016-04-22,med,vegetation
+1153,OK,m,intermediate,11.73,2.31,Harc 643,2016-04-22,med,fight
+1156,OK,m,juvenil,12.05,2.8,mászott,2016-04-22,med,vegetation
+1173,OK,m,juvenil,11.49,2.38,ült,2016-04-22,med,vegetation
+1175,OK,m,juvenil,12.31,3.26,mászott,2016-04-22,med,vegetation
+1178,OK,m,juvenil,10.97,1.75,mászott,2016-04-22,med,vegetation
+1180,OK,m,juvenil,11.15,1.69,ült,2016-04-22,med,vegetation
+1183,OK,m,juvenil,11.34,1.52,ült,2016-04-22,med,vegetation
+1190,OK,m,juvenil,11.53,2.23,1005 járat,2016-04-22,med,tunnel
+1203,OK,m,juvenil,11.65,2.64,járat,2016-04-26,med,tunnel
+1205,OK,m,intermediate,12.3,3.43,járat,2016-04-26,med,tunnel
+1206,OK,m,intermediate,12.15,3.25,járat,2016-04-26,med,tunnel
+1207,OK,m,intermediate,11.67,3.37,460-as járatba ment,2016-04-26,med,tunnel
+1212,OK,m,juvenil,11.21,1.64,mászott,2016-04-26,med,vegetation
+1218,OK,m,intermediate,11.39,2.36,ült,2016-04-26,med,vegetation
+1226,OK,m,juvenil,11.86,3.39,mászott,2016-04-26,med,vegetation
+1228,OK,m,juvenil,12.23,2.88,mászott,2016-04-26,med,vegetation
+1231,OK,m,juvenil,12.08,2.95,járat,2016-04-26,med,tunnel
+1235,OK,m,juvenil,10.92,1.25,mászott,2016-04-26,med,vegetation
+1242,OK,m,juvenil,10.93,1.67,ült,2016-04-26,med,vegetation
+1248,OK,m,juvenil,11.41,2.28,ült,2016-04-26,med,vegetation
+1250,OK,m,old,11.67,2.26,mászott,2016-04-26,med,vegetation
+1252,NEWN,m,juvenil,11.16,1.83,ült,2016-04-28,med,vegetation
+1253,OK,m,juvenil,11.97,2.54,mászott,2016-04-28,med,vegetation
+1259,OK,m,juvenil,11.93,2.05,járat,2016-04-28,med,tunnel
+1269,OK,m,juvenil,12.32,3.55,mászott,2016-04-28,med,vegetation
+1270,OK,m,juvenil,10.87,1.61,1130 járat,2016-04-28,med,tunnel
+1273,OK,m,juvenil,10.99,1.47,ült,2016-04-28,med,vegetation
+1275,OK,m,juvenil,12,3,X járatban,2016-04-28,med,tunnel
+1284,OK,m,juvenil,11.1,1.53,mászott,2016-04-28,med,vegetation
+1286,OK,m,juvenil,11.25,2.44,ült,2016-04-28,med,vegetation
+1302,OK,m,juvenil,11.63,2.21,ült,2016-05-02,med,vegetation
+1305,OK,m,old,11.35,2.94,934 járat,2016-05-02,med,tunnel
+1313,OK,m,juvenil,11.95,2.03,mászott,2016-05-02,med,vegetation
+1315,OK,m,juvenil,11.13,1.88,mászott,2016-05-02,med,vegetation
+1324,OK,m,juvenil,11.78,2.34,ült,2016-05-02,med,vegetation
+1326,NEWN,m,juvenil,12.19,3.21,mászott,2016-05-02,med,vegetation
+1330,OK,m,juvenil,11.03,1.05,járat,2016-05-02,med,tunnel
+1331,OK,m,juvenil,12.07,2.94,járat,2016-05-02,med,tunnel
+1341,XY,m,juvenil,10.8,1.36,mászott,2016-05-02,med,vegetation
+1346,XY,m,juvenil,11.32,1.9,ült,2016-05-02,med,vegetation
+1347,XY,m,juvenil,11.86,2.63,mászott,2016-05-02,med,vegetation
+1348,XY,m,juvenil,12.11,2.78,ült,2016-05-02,med,vegetation
+1374,OK,m,intermediate,12.02,3.57,mászott,2016-05-03,med,vegetation
+1376,OK,m,juvenil,11.29,1.4,ült,2016-05-03,med,vegetation
+1383,OK,m,juvenil,11.29,1.31,mászott,2016-05-03,med,vegetation
+1389,OK,m,juvenil,11.97,2.9,harc 725-tel,2016-05-03,med,fight
+1390,OK,m,juvenil,11.78,3.06,mászott,2016-05-03,med,vegetation
+1400,OK,m,juvenil,11.47,1.41,ült,2016-05-03,med,vegetation
+1402,OK,m,juvenil,11.91,2.31,ült,2016-05-03,med,vegetation
+1403,OK,m,juvenil,11.4,2.07,ült,2016-05-03,med,vegetation
+1404,OK,m,juvenil,11.21,1.44,járatban 1405-tel,2016-05-03,med,tunnel
+1406,OK,m,juvenil,12.04,2.94,mászott,2016-05-03,med,vegetation
+1407,OK,m,juvenil,11.1,1.48,mászott,2016-05-03,med,vegetation
+1421,OK,m,juvenil,12.27,3.18,mászott,2016-05-04,med,vegetation
+1425,OK,m,juvenil,12.18,3.43,járat,2016-05-04,med,tunnel
+1428,OK,m,juvenil,11.31,1.83,járat,2016-05-04,med,tunnel
+1452,OK,m,juvenil,11.37,1.7,ült,2016-05-04,med,vegetation
+1464,OK,m,juvenil,11.91,2.91,ült,2016-05-04,med,vegetation
+1469,OK,m,juvenil,11.27,1.15,harc 1470,2016-05-04,med,fight
+1470,OK,m,juvenil,11.16,1.66,harc 1469,2016-05-04,med,fight
+1472,OK,m,juvenil,10.92,1.1,ült,2016-05-04,med,vegetation
+1473,OK,m,juvenil,11.67,1.57,ült,2016-05-04,med,vegetation
+1474,OK,m,juvenil,11.76,2.41,ült,2016-05-04,med,vegetation
+1475,OK,m,juvenil,11.08,1.35,ült,2016-05-04,med,vegetation
+1482,OK,m,intermediate,11.43,1.46,ült,2016-05-04,med,vegetation
+1485,DEATH,m,juvenil,11.24,1.94,ült,2016-05-04,med,vegetation
+1490,OK,m,juvenil,11.74,2.45,ült,2016-05-04,med,vegetation
+1514,OK,m,juvenil,11.81,2.82,járatban 1210-sel,2016-05-05,med,tunnel
+1520,OK,m,juvenil,11.57,2.86,járat,2016-05-05,med,tunnel
+1521,OK,m,juvenil,11.73,2.6,járat,2016-05-05,med,tunnel
+1525,OK,m,juvenil,12.24,2.72,ült,2016-05-05,med,vegetation
+1528,OK,m,juvenil,12.26,2.65,harc 899,2016-05-05,med,fight
+1529,OK,m,juvenil,11.94,2.56,901 járat,2016-05-05,med,tunnel
+1533,OK,m,intermediate,11.91,3.26,ült,2016-05-05,med,vegetation
+1536,OK,m,juvenil,12.24,3.87,1206 járat,2016-05-05,med,tunnel
+1538,OK,m,juvenil,11.06,1.7,ült,2016-05-05,med,vegetation
+1539,OK,m,intermediate,11.99,2.59,ült,2016-05-05,med,vegetation
+1540,OK,m,juvenil,11.92,2.27,ült,2016-05-05,med,vegetation
+1545,OK,m,juvenil,11.26,2.23,járat,2016-05-05,med,tunnel
+1547,XY,m,juvenil,11.47,2.47,mászott,2016-05-05,med,vegetation
+1549,OK,m,juvenil,12.17,3.42,mászott,2016-05-06,med,vegetation
+1553,DEATH,m,intermediate,11.64,2.1,mászott,2016-05-06,med,vegetation
+1557,OK,m,juvenil,11.9,2.55,járatban 672-sel,2016-05-06,med,tunnel
+1560,OK,m,juvenil,11.79,2.52,járat,2016-05-06,med,tunnel
+1565,OK,m,juvenil,12.11,3.15,mászott,2016-05-06,med,vegetation
+1568,OK,m,intermediate,11.77,2.32,ült,2016-05-06,med,vegetation
+1569,OK,m,juvenil,11.71,2.52,fű,2016-05-06,med,feed_on
+1589,OK,m,juvenil,11.89,2.68,ült,2016-05-06,med,vegetation
+1591,OK,m,juvenil,12.08,3.26,ült,2016-05-06,med,vegetation
+1592,OK,m,juvenil,12.05,3.57,járat,2016-05-06,med,tunnel
+1594,OK,m,juvenil,11.22,1.56,965 járat,2016-05-06,med,tunnel
+1596,OK,m,juvenil,12.18,3.22,ült,2016-05-06,med,vegetation
+1607,OK,m,juvenil,11.81,2.76,mászott,2016-05-07,med,vegetation
+1645,OK,m,juvenil,12.31,3.86,mászott,2016-05-07,med,vegetation
+1648,OK,m,juvenil,12.25,3.5,járat 1649-cel,2016-05-07,med,tunnel
+1652,OK,m,juvenil,11.92,2.14,mászott,2016-05-07,med,vegetation
+1663,OK,m,juvenil,11.03,2.03,mászott,2016-05-07,med,vegetation
+1669,OK,m,juvenil,11.03,1.38,mászott,2016-05-12,med,vegetation
+1671,OK,m,juvenil,12.03,2.64,ült,2016-05-12,med,vegetation
+1672,OK,m,old,11.83,2.8,járat,2016-05-12,med,tunnel
+1674,OK,m,juvenil,12.11,3.39,418-419 járat,2016-05-12,med,tunnel
+1677,OK,m,juvenil,11.47,1.84,mászott,2016-05-12,med,vegetation
+1681,OK,m,old,11.18,2.15,mászott,2016-05-12,med,vegetation
+1688,OK,m,juvenil,11.84,3.22,1299-856 járat,2016-05-12,med,tunnel
+1689,OK,m,juvenil,11.31,2.01,járat,2016-05-12,med,tunnel
+1694,OK,m,intermediate,10.94,1.26,mászott,2016-05-12,med,vegetation
+1696,OK,m,juvenil,11.09,1.14,mászott,2016-05-12,med,vegetation
+1698,OK,m,juvenil,11.28,1.41,harc 1697,2016-05-12,med,fight
+1703,OK,m,juvenil,11.72,2.48,mászott,2016-05-12,med,vegetation
+1704,OK,m,juvenil,12.01,3.19,járat,2016-05-16,med,tunnel
+1714,OK,m,juvenil,12.2,3.56,patanyomban,2016-05-16,med,vegetation
+1722,OK,m,juvenil,11.35,1.99,ült,2016-05-16,med,vegetation
+1724,OK,m,juvenil,11,1.15,ült,2016-05-16,med,vegetation
+1726,OK,m,juvenil,12.12,3.15,harc 1602-vel,2016-05-16,med,fight
+1727,OK,m,juvenil,12.09,2.85,mászott,2016-05-16,med,vegetation
+1735,OK,m,juvenil,10.84,1.36,mászott,2016-05-17,med,vegetation
+1742,OK,m,juvenil,12.02,2.59,mászott,2016-05-17,med,vegetation
+1745,OK,m,old,11.07,1.37,ült,2016-05-17,med,vegetation
+1761,OK,m,juvenil,12.22,3.42,mászott,2016-05-18,med,vegetation
+1773,OK,m,juvenil,11.55,2.2,mászott,2016-05-19,med,vegetation
+1785,OK,m,juvenil,11.24,1.71,ült,2016-05-23,med,vegetation
+1788,OK,m,juvenil,11.98,3.22,mászott,2016-05-23,med,vegetation
+1789,OK,m,old,11.1,1.25,mászott,2016-05-23,med,vegetation
+6,DEATH,m,juvenil,13.73,4.58,mászott,2016-03-17,large,vegetation
+7,OK,m,juvenil,12.58,3.78,mászott,2016-03-17,large,vegetation
+8,OK,m,juvenil,12.48,3.22,mászott,2016-03-17,large,vegetation
+9,OK,m,juvenil,12.36,2.92,fű,2016-03-17,large,feed_on
+14,OK,m,juvenil,13.63,4.11,mászott,2016-03-17,large,vegetation
+15,OK,m,juvenil,12.63,3.54,fű,2016-03-17,large,feed_on
+17,OK,m,juvenil,13.01,4.13,mászott,2016-03-17,large,vegetation
+18,OK,m,juvenil,13.44,3.81,mászott,2016-03-17,large,vegetation
+20,OK,m,juvenil,12.32,3.81,járat,2016-03-18,large,tunnel
+24,OK,m,juvenil,12.57,3.88,pillangós,2016-03-18,large,feed_on
+27,OK,m,juvenil,12.6,4.07,ült,2016-03-18,large,vegetation
+29,OK,m,juvenil,13.6,4.21,mászott,2016-03-18,large,vegetation
+30,OK,m,juvenil,12.83,3.9,Achillea,2016-03-18,large,feed_on
+31,OK,m,juvenil,12.53,3.87,járat,2016-03-18,large,tunnel
+33,OK,m,juvenil,12.79,3.91,járat,2016-03-18,large,tunnel
+36,OK,m,juvenil,13.06,4.06,mászott,2016-03-18,large,vegetation
+40,OK,m,juvenil,12.71,4.92,járat,2016-03-18,large,tunnel
+56,OK,m,juvenil,13.01,3.81,ásott,2016-03-21,large,dig
+59,OK,m,juvenil,13.32,3.55,mászott,2016-03-21,large,vegetation
+61,OK,m,juvenil,13.63,4.18,Zsályán-ült,2016-03-21,large,vegetation
+64,OK,m,juvenil,13.33,4.35,járat,2016-03-21,large,tunnel
+73,OK,m,juvenil,12.35,3.84,fűcsomón-üldögélt,2016-03-21,large,vegetation
+74,OK,m,juvenil,14.01,4.22,járat,2016-03-21,large,tunnel
+80,OK,m,juvenil,13.5,4.05,mászott,2016-03-22,large,vegetation
+82,OK,m,juvenil,12.58,3.39,patanyomban,2016-03-22,large,vegetation
+86,OK,m,juvenil,13.06,3.99,harc,2016-03-22,large,fight
+87,OK,m,juvenil,12.71,4.09,harc,2016-03-22,large,fight
+91,OK,m,juvenil,12.52,3.57,mászott,2016-03-22,large,vegetation
+94,OK,m,juvenil,12.46,3.66,Achillea-t nézte,2016-03-22,large,vegetation
+96,OK,m,juvenil,13.49,4.25,ült,2016-03-22,large,vegetation
+98,OK,m,juvenil,13.41,3.85,járat,2016-03-22,large,tunnel
+99,OK,m,juvenil,12.98,3.24,mászott,2016-03-22,large,vegetation
+100,OK,m,juvenil,12.86,3.92,mászott,2016-03-22,large,vegetation
+101,OK,m,juvenil,12.31,3.71,Achillea,2016-03-22,large,feed_on
+102,OK,m,juvenil,12.38,3.94,ült,2016-03-22,large,vegetation
+103,OK,m,juvenil,12.93,3.63,ült,2016-03-22,large,vegetation
+106,OK,m,juvenil,12.7,3.7,pitypang,2016-03-22,large,feed_on
+108,OK,m,juvenil,13.27,3.75,mászott,2016-03-22,large,vegetation
+109,OK,m,juvenil,13.52,3.97,levél,2016-03-22,large,feed_on
+122,OK,m,juvenil,13.26,3.75,ült,2016-03-24,large,vegetation
+124,OK,m,juvenil,13.26,3.94,mászott,2016-03-24,large,vegetation
+126,OK,m,juvenil,13.04,3.51,járat,2016-03-24,large,tunnel
+127,OK,m,juvenil,12.62,3.47,levél,2016-03-24,large,feed_on
+128,OK,m,juvenil,13.15,3.77,mászott,2016-03-24,large,vegetation
+130,OK,m,juvenil,12.46,3.41,mászott,2016-03-24,large,vegetation
+134,OK,m,juvenil,12.65,3.66,mászott,2016-03-24,large,vegetation
+136,OK,m,juvenil,12.6,2.88,ült,2016-03-24,large,vegetation
+153,OK,m,juvenil,12.65,3.17,mászott,2016-03-24,large,vegetation
+158,OK,m,juvenil,12.86,3.8,járat,2016-03-25,large,tunnel
+162,OK,m,juvenil,12.8,3.6,patanyomban,2016-03-25,large,vegetation
+164,OK,m,juvenil,13.3,3.64,ült,2016-03-25,large,vegetation
+167,OK,m,juvenil,13.18,3.74,ült,2016-03-25,large,vegetation
+168,OK,m,juvenil,13.2,4.05,ásott,2016-03-25,large,dig
+169,OK,m,juvenil,13.31,3.43,fű,2016-03-25,large,feed_on
+171,OK,m,old,12.41,3.04,mászott,2016-03-25,large,vegetation
+178,OK,m,juvenil,12.33,3.41,ült,2016-03-25,large,vegetation
+194,OK,m,juvenil,12.41,3.48,járat,2016-03-29,large,tunnel
+195,OK,m,juvenil,13.06,3.63,járat,2016-03-29,large,tunnel
+197,OK,m,juvenil,13.78,3.97,ásott,2016-03-29,large,dig
+198,OK,m,juvenil,13.55,3.92,mászott,2016-03-29,large,vegetation
+201,OK,m,juvenil,13.05,3.6,ült,2016-03-29,large,vegetation
+206,OK,m,juvenil,12.46,3.64,zsálya,2016-03-29,large,feed_on
+209,OK,m,juvenil,13.07,3.72,járat,2016-03-29,large,tunnel
+210,OK,m,juvenil,12.6,3.78,ült,2016-03-29,large,vegetation
+214,OK,m,juvenil,12.48,3.32,ült,2016-03-29,large,vegetation
+216,OK,m,juvenil,13.32,4.13,járat,2016-03-29,large,tunnel
+221,OK,m,juvenil,13.13,3.86,járat,2016-03-29,large,tunnel
+223,OK,m,juvenil,13.59,3.64,járat,2016-03-29,large,tunnel
+224,OK,m,juvenil,12.93,4.02,ásott,2016-03-29,large,dig
+225,OK,m,juvenil,13.03,3.96,járat,2016-03-29,large,tunnel
+230,OK,m,juvenil,13.19,4.05,mászott,2016-03-29,large,vegetation
+234,OK,m,juvenil,12.57,3.93,fű,2016-03-29,large,feed_on
+236,OK,m,juvenil,13.46,4.01,járat,2016-03-29,large,tunnel
+237,OK,m,juvenil,12.98,4.04,járat,2016-03-29,large,tunnel
+238,OK,m,juvenil,12.36,3.91,fű,2016-03-29,large,feed_on
+240,OK,m,juvenil,12.89,3.97,járat,2016-03-29,large,tunnel
+243,OK,m,old,13.19,4.05,járat,2016-03-29,large,tunnel
+246,OK,m,juvenil,13.37,3.78,járat,2016-03-30,large,tunnel
+247,OK,m,juvenil,12.81,3.67,járat,2016-03-30,large,tunnel
+248,DEATH,m,old,13.51,4.2,járat,2016-03-30,large,tunnel
+249,OK,m,juvenil,13.69,4.27,járat,2016-03-30,large,tunnel
+251,OK,m,juvenil,12.44,3.54,hölgymál,2016-03-30,large,feed_on
+253,DEATH,m,juvenil,12.51,3.61,ásott,2016-03-30,large,dig
+254,OK,m,old,12.73,3.77,járat,2016-03-30,large,tunnel
+256,OK,m,juvenil,12.45,3.49,mászott,2016-03-30,large,vegetation
+259,OK,m,old,13.54,4.21,260 járata előtt,2016-03-30,large,tunnel
+263,OK,m,juvenil,13.15,3.81,járat,2016-03-30,large,tunnel
+265,OK,m,juvenil,12.96,3.84,járat,2016-03-30,large,tunnel
+268,OK,m,juvenil,12.41,3.6,járat,2016-03-30,large,tunnel
+269,DEATH,m,juvenil,12.46,2.81,járat,2016-03-30,large,tunnel
+270,OK,m,juvenil,12.55,3.69,patanyomban,2016-03-30,large,vegetation
+272,OK,m,juvenil,12.75,3.79,járat,2016-03-30,large,tunnel
+273,OK,m,juvenil,12.69,3.67,mászott,2016-03-30,large,vegetation
+274,OK,m,juvenil,12.82,3.83,ásott,2016-03-30,large,dig
+278,OK,m,juvenil,12.83,3.48,járat,2016-03-30,large,tunnel
+280,OK,m,juvenil,13.36,4.06,járat,2016-03-30,large,tunnel
+283,OK,m,juvenil,12.86,3.75,mászott,2016-03-30,large,vegetation
+286,OK,m,juvenil,12.5,3.89,ásott,2016-03-30,large,dig
+291,OK,m,juvenil,12.4,3.78,mászott,2016-03-30,large,vegetation
+292,OK,m,juvenil,13.56,4.27,mászott,2016-03-30,large,vegetation
+293,OK,m,juvenil,13.35,3.97,mászott,2016-03-30,large,vegetation
+296,OK,m,juvenil,12.97,3.87,járat zsálya,2016-03-30,large,tunnel
+299,OK,m,juvenil,13.04,4.02,járat,2016-03-30,large,tunnel
+300,OK,m,old,12.75,3.88,járat,2016-03-30,large,tunnel
+301,OK,m,juvenil,13.03,3.95,járat,2016-03-30,large,tunnel
+302,OK,m,juvenil,13.35,4.02,járat,2016-03-30,large,tunnel
+305,OK,m,juvenil,12.68,3.94,járat,2016-03-30,large,tunnel
+308,OK,m,juvenil,13.39,3.64,ült,2016-03-30,large,vegetation
+315,OK,m,old,13.09,3.1,ült,2016-03-30,large,vegetation
+321,OK,m,juvenil,12.43,3.43,322 járatába prob bejut,2016-03-30,large,vegetation
+325,OK,m,juvenil,12.87,3.32,ült,2016-03-30,large,vegetation
+327,OK,m,juvenil,13.36,3.84,ült,2016-03-31,large,vegetation
+328,OK,m,juvenil,13.9,3.94,járat ült,2016-03-31,large,tunnel
+330,OK,m,juvenil,13.73,4.12,ült,2016-03-31,large,vegetation
+333,OK,m,juvenil,13.19,4.16,járat,2016-03-31,large,tunnel
+341,OK,m,juvenil,13.01,3.68,ült,2016-03-31,large,vegetation
+346,OK,m,juvenil,13.11,3.63,járat,2016-03-31,large,tunnel
+348,OK,m,juvenil,12.57,3.29,járat,2016-03-31,large,tunnel
+357,OK,m,juvenil,12.84,3.88,járat,2016-03-31,large,tunnel
+360,OK,m,juvenil,12.56,3.61,járat,2016-03-31,large,tunnel
+361,OK,m,juvenil,12.67,3.47,járat,2016-03-31,large,tunnel
+362,OK,m,juvenil,13.45,2.88,járat,2016-03-31,large,tunnel
+365,OK,m,juvenil,12.91,3.97,járat,2016-03-31,large,tunnel
+366,OK,m,juvenil,13.24,3.33,járat,2016-03-31,large,tunnel
+369,OK,m,juvenil,13.11,3.69,járat,2016-03-31,large,tunnel
+370,OK,m,juvenil,12.56,2.98,járat,2016-03-31,large,tunnel
+374,OK,m,juvenil,12.76,3.46,járat,2016-03-31,large,tunnel
+378,OK,m,juvenil,12.37,3.63,ásott,2016-03-31,large,dig
+379,OK,m,juvenil,13.22,4.04,ásott,2016-03-31,large,dig
+380,OK,m,juvenil,12.47,3.72,patanyomban,2016-03-31,large,vegetation
+382,OK,m,intermediate,12.39,3.63,ásott,2016-03-31,large,dig
+389,OK,m,juvenil,13.01,4.09,patanyomban,2016-04-01,large,vegetation
+391,OK,m,juvenil,13.03,4.12,járat,2016-04-01,large,tunnel
+395,OK,m,juvenil,13.84,4.03,járat,2016-04-01,large,tunnel
+406,OK,m,juvenil,12.34,3.33,ült,2016-04-01,large,vegetation
+410,OK,m,juvenil,13.06,3.59,járat,2016-04-01,large,tunnel
+417,OK,m,juvenil,12.83,3.34,fű,2016-04-01,large,feed_on
+419,OK,m,old,13.24,3.93,járat,2016-04-01,large,tunnel
+423,OK,m,juvenil,12.39,3.43,járat,2016-04-01,large,tunnel
+426,OK,m,juvenil,12.62,2.67,járat,2016-04-01,large,tunnel
+430,OK,m,juvenil,12.65,4,járat,2016-04-01,large,tunnel
+433,OK,m,juvenil,13.51,4.02,járat,2016-04-01,large,tunnel
+450,OK,m,juvenil,12.5,3.59,járat,2016-04-02,large,tunnel
+453,OK,m,juvenil,12.96,3.6,járat,2016-04-02,large,tunnel
+456,OK,m,juvenil,12.94,3.46,levél,2016-04-02,large,feed_on
+457,OK,m,juvenil,13.44,3.8,mászott,2016-04-02,large,vegetation
+458,OK,m,juvenil,12.54,3.81,járat hölgymál,2016-04-02,large,tunnel
+461,OK,m,juvenil,13.01,3.2,járat,2016-04-02,large,tunnel
+467,OK,m,intermediate,12.86,3.4,mászott,2016-04-02,large,vegetation
+470,OK,m,juvenil,13.14,3.55,járat,2016-04-03,large,tunnel
+476,OK,m,old,13.38,3.76,járat,2016-04-03,large,tunnel
+481,OK,m,juvenil,12.8,3.62,482-el egy jár.,2016-04-03,large,tunnel
+484,OK,m,juvenil,13.29,3.89,járat,2016-04-03,large,tunnel
+486,OK,m,juvenil,12.58,3.73,tücsöklyukban,2016-04-03,large,vegetation
+489,OK,m,juvenil,13.85,3.91,járat,2016-04-03,large,tunnel
+491,OK,m,juvenil,13.25,3.87,mászott,2016-04-03,large,vegetation
+492,OK,m,old,13.08,3.92,mászott,2016-04-03,large,vegetation
+496,OK,m,juvenil,13.08,4.03,mászott,2016-04-03,large,vegetation
+502,DEATH,m,intermediate,13.52,4.23,járatkezdemény,2016-04-03,large,tunnel
+503,OK,m,juvenil,13.65,3.92,járat,2016-04-03,large,tunnel
+505,OK,m,juvenil,12.89,3.71,járat,2016-04-03,large,tunnel
+507,OK,m,juvenil,12.61,3.53,járat,2016-04-03,large,tunnel
+508,DEATH,m,juvenil,13.32,3.88,ült,2016-04-03,large,vegetation
+514,OK,m,old,13.02,3.8,járat,2016-04-03,large,tunnel
+516,OK,m,juvenil,12.78,3.84,mászott,2016-04-06,large,vegetation
+518,OK,m,old,13.11,3.91,mászott,2016-04-06,large,vegetation
+520,OK,m,juvenil,12.34,3.48,mászott,2016-04-06,large,vegetation
+522,OK,m,juvenil,13.45,3.98,fű,2016-04-06,large,feed_on
+523,DEATH,m,juvenil,12.65,3.65,mászott,2016-04-06,large,vegetation
+526,OK,m,juvenil,13.51,3.41,mászott,2016-04-06,large,vegetation
+530,OK,m,juvenil,12.49,3.55,járat,2016-04-06,large,tunnel
+534,OK,m,old,12.79,3.69,járat,2016-04-06,large,tunnel
+535,OK,m,intermediate,12.77,3.46,járat,2016-04-06,large,tunnel
+538,OK,m,intermediate,13.87,4.02,ült,2016-04-06,large,vegetation
+548,OK,m,old,12.61,3.99,högymál,2016-04-06,large,feed_on
+551,OK,m,juvenil,12.98,3.95,járat,2016-04-06,large,tunnel
+559,OK,m,juvenil,12.98,3.91,mászott,2016-04-06,large,vegetation
+562,OK,m,juvenil,13.04,3.82,ült,2016-04-06,large,vegetation
+566,OK,m,juvenil,13.01,3.94,járatkezdemény,2016-04-06,large,tunnel
+571,OK,m,juvenil,12.89,3.77,járat,2016-04-06,large,tunnel
+581,OK,m,juvenil,13.26,4.04,ült,2016-04-06,large,vegetation
+585,OK,m,juvenil,13.75,4.07,járat,2016-04-07,large,tunnel
+586,OK,m,old,13.08,4.01,mászott,2016-04-07,large,vegetation
+589,OK,m,juvenil,12.73,3.45,járat,2016-04-07,large,tunnel
+590,OK,m,juvenil,13.24,3.83,járat,2016-04-07,large,tunnel
+595,OK,m,juvenil,12.85,3.8,mászott,2016-04-07,large,vegetation
+600,OK,m,juvenil,12.93,3.62,járat,2016-04-07,large,tunnel
+606,OK,m,old,13.17,3.74,járat,2016-04-07,large,tunnel
+609,OK,m,old,12.74,3.94,járat,2016-04-07,large,tunnel
+611,OK,m,juvenil,13.39,3.78,járat,2016-04-07,large,tunnel
+623,OK,m,juvenil,12.63,3.18,járat,2016-04-07,large,tunnel
+624,OK,m,juvenil,13.16,4.22,járat,2016-04-07,large,tunnel
+625,OK,m,juvenil,12.83,3.81,ült,2016-04-07,large,vegetation
+629,OK,m,juvenil,13.18,3.97,járat,2016-04-07,large,tunnel
+630,OK,m,juvenil,13.61,4.19,járat,2016-04-07,large,tunnel
+631,OK,m,juvenil,12.64,3.62,járat,2016-04-07,large,tunnel
+632,OK,m,old,12.56,3.46,ült,2016-04-07,large,vegetation
+635,OK,m,juvenil,13.3,3.62,ült,2016-04-07,large,vegetation
+639,OK,m,juvenil,12.44,3.51,tücsöklyukban,2016-04-07,large,vegetation
+647,OK,m,intermediate,12.66,4.06,járat,2016-04-11,large,tunnel
+652,OK,m,old,12.34,2.52,járat,2016-04-11,large,tunnel
+654,OK,m,old,12.6,3.62,járat,2016-04-11,large,tunnel
+659,OK,m,juvenil,12.92,3.97,járat 658-al,2016-04-11,large,tunnel
+661,OK,m,juvenil,13.64,3.92,Járat 460 új,2016-04-11,large,tunnel
+664,OK,m,juvenil,12.51,3.5,Járat 87,2016-04-11,large,tunnel
+674,OK,m,intermediate,12.76,3.39,ásott,2016-04-11,large,dig
+680,OK,m,old,12.36,3.12,ült,2016-04-11,large,vegetation
+685,OK,m,intermediate,12.7,3.6,ült,2016-04-11,large,vegetation
+687,OK,m,juvenil,13.3,3.89,mászott,2016-04-11,large,vegetation
+689,OK,m,old,12.41,3.58,járat,2016-04-11,large,tunnel
+690,OK,m,old,12.33,3.58,ásott,2016-04-11,large,dig
+695,OK,m,juvenil,12.87,3.65,mászott,2016-04-11,large,vegetation
+702,OK,m,old,13.56,4.13,ült,2016-04-11,large,vegetation
+703,OK,m,juvenil,12.57,3.62,ült,2016-04-11,large,vegetation
+710,OK,m,juvenil,12.33,3.27,járat,2016-04-11,large,tunnel
+712,OK,m,juvenil,12.55,3.81,281-járat,2016-04-11,large,tunnel
+714,OK,m,juvenil,13.04,4.02,ült,2016-04-11,large,vegetation
+715,OK,m,juvenil,13.07,3.99,járat,2016-04-11,large,tunnel
+716,OK,m,intermediate,12.49,3.96,járat,2016-04-11,large,tunnel
+719,OK,m,juvenil,12.35,3.29,Trifolium,2016-04-11,large,feed_on
+721,OK,m,juvenil,12.52,4.01,járat,2016-04-11,large,tunnel
+727,OK,m,juvenil,13.6,3.21,Harc 728,2016-04-11,large,fight
+729,OK,m,juvenil,13.19,3.81,járat,2016-04-12,large,tunnel
+733,OK,m,juvenil,12.9,3.87,járat,2016-04-12,large,tunnel
+738,OK,m,juvenil,13.23,3.89,járat,2016-04-12,large,tunnel
+739,OK,m,juvenil,12.75,3.55,járat,2016-04-12,large,tunnel
+742,OK,m,juvenil,12.84,3.74,járat,2016-04-12,large,tunnel
+747,OK,m,juvenil,12.72,3.77,Achillea,2016-04-12,large,feed_on
+749,OK,m,old,13.35,3.94,járat,2016-04-12,large,tunnel
+754,OK,m,juvenil,12.62,3.47,ült,2016-04-12,large,vegetation
+756,OK,m,juvenil,13.45,3.61,ült,2016-04-12,large,vegetation
+758,OK,m,juvenil,12.45,3.1,járat,2016-04-12,large,tunnel
+759,OK,m,juvenil,12.94,3.67,ült,2016-04-12,large,vegetation
+760,OK,m,juvenil,12.98,3.63,járat,2016-04-12,large,tunnel
+764,OK,m,juvenil,12.87,3.83,ült,2016-04-12,large,vegetation
+765,OK,m,juvenil,12.75,3.35,járat,2016-04-12,large,tunnel
+769,DEATH,m,old,12.94,3.51,mászott,2016-04-12,large,vegetation
+773,OK,m,juvenil,12.74,3.63,ült,2016-04-12,large,vegetation
+774,OK,m,old,12.36,3.47,járat,2016-04-12,large,tunnel
+775,OK,m,old,13.06,3.92,ült,2016-04-12,large,vegetation
+780,OK,m,juvenil,12.56,3.53,Trifolium,2016-04-12,large,feed_on
+781,OK,m,old,12.95,3.81,ült,2016-04-12,large,vegetation
+784,OK,m,juvenil,12.38,3.17,menekülés,2016-04-12,large,vegetation
+798,OK,m,juvenil,12.88,3.8,járatkezdemény,2016-04-12,large,tunnel
+799,OK,m,juvenil,12.38,3.49,ült,2016-04-12,large,vegetation
+808,OK,m,intermediate,13.03,3.96,járat,2016-04-13,large,tunnel
+812,OK,m,intermediate,13.23,3.86,ült,2016-04-13,large,vegetation
+815,OK,m,juvenil,12.49,3.44,mászott,2016-04-13,large,vegetation
+817,OK,m,intermediate,13.2,3.95,járat,2016-04-13,large,tunnel
+828,OK,m,old,13.26,4.08,271-járat,2016-04-13,large,tunnel
+834,OK,m,intermediate,13.04,4.08,ült,2016-04-13,large,vegetation
+836,OK,m,intermediate,13.23,4.04,ült,2016-04-13,large,vegetation
+837,OK,m,old,13.29,4.06,ült,2016-04-13,large,vegetation
+845,OK,m,juvenil,13.18,3.95,mászott,2016-04-13,large,vegetation
+852,OK,m,juvenil,12.86,3.81,járat,2016-04-13,large,tunnel
+860,OK,m,juvenil,13.49,3.79,járat,2016-04-13,large,tunnel
+861,OK,m,juvenil,12.45,3.98,ült,2016-04-13,large,vegetation
+863,OK,m,old,12.96,3.57,járat,2016-04-13,large,tunnel
+864,OK,m,juvenil,13.76,3.72,járat,2016-04-13,large,tunnel
+866,OK,m,old,12.78,3.66,mászott,2016-04-15,large,vegetation
+870,DEATH,m,juvenil,12.61,3.75,levél,2016-04-15,large,feed_on
+873,OK,m,juvenil,13.02,3.76,járat,2016-04-15,large,tunnel
+874,OK,m,juvenil,12.61,4.08,járat,2016-04-15,large,tunnel
+875,OK,m,juvenil,12.69,3.64,járat,2016-04-15,large,tunnel
+877,OK,m,juvenil,12.7,3.72,járat,2016-04-15,large,tunnel
+879,OK,m,juvenil,13.02,3.92,mászott,2016-04-15,large,vegetation
+889,OK,m,intermediate,12.87,3.93,mászott,2016-04-15,large,vegetation
+891,OK,m,juvenil,12.83,3.63,Trifolium,2016-04-15,large,feed_on
+894,OK,m,intermediate,13.36,3.84,mászott,2016-04-15,large,vegetation
+896,OK,m,juvenil,13.45,3.61,járat,2016-04-15,large,tunnel
+899,OK,m,juvenil,13.66,3.92,ült,2016-04-15,large,vegetation
+900,OK,m,juvenil,13,3.64,Harc 901 vesztett,2016-04-15,large,fight
+901,OK,m,juvenil,13.2,3.9,Harc 900 nyert,2016-04-15,large,fight
+902,OK,m,juvenil,12.38,3.75,mászott,2016-04-15,large,vegetation
+903,OK,m,juvenil,13.45,4.12,járat,2016-04-15,large,tunnel
+907,OK,m,juvenil,12.71,3.45,járat,2016-04-15,large,tunnel
+920,OK,m,old,12.4,3.91,ült,2016-04-15,large,vegetation
+924,OK,m,intermediate,12.39,3.61,ült,2016-04-15,large,vegetation
+933,OK,m,juvenil,13.15,3.9,járat,2016-04-16,large,tunnel
+943,OK,m,juvenil,13.93,3.81,járatkezdemény,2016-04-16,large,tunnel
+947,OK,m,juvenil,12.95,3.64,levél,2016-04-16,large,feed_on
+951,OK,m,old,13.29,3.99,járat,2016-04-16,large,tunnel
+954,OK,m,juvenil,14.23,3.76,Járat 953-el,2016-04-16,large,tunnel
+958,OK,m,intermediate,13.04,3.5,863-járat,2016-04-16,large,tunnel
+962,OK,m,old,13.18,3.43,harc964 vesztett,2016-04-16,large,fight
+964,OK,m,juvenil,12.93,3.8,harc962 nyert,2016-04-16,large,fight
+965,OK,m,juvenil,13.14,3.4,Járat 966-al,2016-04-16,large,tunnel
+972,OK,m,intermediate,12.71,3.66,974 intruder,2016-04-16,large,fight
+977,OK,m,intermediate,13,3.85,ült,2016-04-16,large,vegetation
+978,OK,m,juvenil,12.38,3.56,ült,2016-04-16,large,vegetation
+993,OK,m,juvenil,12.37,3.65,mászott,2016-04-17,large,vegetation
+996,OK,m,juvenil,12.73,3.56,járat,2016-04-17,large,tunnel
+1001,OK,m,juvenil,13.23,3.71,járat,2016-04-17,large,tunnel
+1010,OK,m,juvenil,12.98,3.73,ült,2016-04-17,large,vegetation
+1011,DEATH,m,juvenil,11.15,1.84,mászott,2016-04-17,large,vegetation
+1012,OK,m,old,10.92,1.67,járat,2016-04-17,large,tunnel
+1013,OK,m,juvenil,12,3.16,ült,2016-04-17,large,vegetation
+1016,OK,m,juvenil,12.92,3.65,járatot ás,2016-04-17,large,dig
+1022,OK,m,juvenil,12.7,3.8,mászott,2016-04-17,large,vegetation
+1023,OK,m,juvenil,12.97,3.99,járat,2016-04-17,large,tunnel
+1024,OK,m,juvenil,12.95,3.98,ült,2016-04-17,large,vegetation
+1029,OK,m,juvenil,13.01,3.72,ült,2016-04-17,large,vegetation
+1030,OK,m,old,13.14,3.7,ült,2016-04-17,large,vegetation
+1031,OK,m,juvenil,13.47,4.35,járat,2016-04-17,large,tunnel
+1034,OK,m,juvenil,12.38,3.06,párzás próba,2016-04-17,large,mating
+1035,OK,m,old,13.75,4.11,járat,2016-04-17,large,tunnel
+1036,OK,m,juvenil,13.21,3.22,Harc 1037,2016-04-17,large,fight
+1037,OK,m,juvenil,12.64,3.6,Harc 1036,2016-04-17,large,fight
+1043,OK,m,juvenil,13.43,3.79,mászott,2016-04-17,large,vegetation
+1046,OK,m,juvenil,13.01,3.81,fészkes,2016-04-17,large,feed_on
+1055,OK,m,intermediate,12.95,3.79,mászott,2016-04-20,large,vegetation
+1058,OK,m,juvenil,12.51,3.9,ült,2016-04-20,large,vegetation
+1073,XY,m,juvenil,12.34,3.49,mászott,2016-04-20,large,vegetation
+1078,OK,m,juvenil,12.75,3.72,Harc 1079 győztes,2016-04-20,large,fight
+1079,OK,m,juvenil,12.42,3.18,Harc 1078 vesztes,2016-04-20,large,fight
+1080,OK,m,juvenil,12.54,3.57,Harc 243,2016-04-20,large,fight
+1081,OK,m,juvenil,12.85,3.66,levél,2016-04-20,large,feed_on
+1086,OK,m,intermediate,13.52,4.17,mászott,2016-04-20,large,vegetation
+1087,OK,m,juvenil,12.86,3.68,mászott,2016-04-20,large,vegetation
+1095,OK,m,old,12.66,3.75,ült,2016-04-20,large,vegetation
+1101,OK,m,juvenil,13.57,3.91,mászott,2016-04-21,large,vegetation
+1102,OK,m,juvenil,12.86,3.41,mászott,2016-04-21,large,vegetation
+1103,OK,m,juvenil,12.33,3.45,Harc 1085 győztes,2016-04-21,large,fight
+1104,OK,m,juvenil,13.28,4.08,mászott,2016-04-21,large,vegetation
+1111,OK,m,juvenil,12.61,3.92,344 járat,2016-04-21,large,tunnel
+1112,DEATH,m,juvenil,13.42,4.03,járat,2016-04-21,large,tunnel
+1116,OK,m,juvenil,12.67,3.85,járat,2016-04-21,large,tunnel
+1121,OK,m,juvenil,13,4.18,járat,2016-04-21,large,tunnel
+1134,OK,m,juvenil,12.91,3.91,Harc 1133 győztes,2016-04-21,large,fight
+1142,OK,m,juvenil,12.92,4.17,Harc 1143,2016-04-21,large,fight
+1149,OK,m,juvenil,12.39,3.23,mászott,2016-04-22,large,vegetation
+1154,OK,m,juvenil,13.35,4.13,mászott,2016-04-22,large,vegetation
+1155,OK,m,juvenil,12.52,3.37,mászott,2016-04-22,large,vegetation
+1174,OK,m,juvenil,12.48,3.85,mászott,2016-04-22,large,vegetation
+1176,OK,m,juvenil,13.23,3.57,fészkes,2016-04-22,large,feed_on
+1186,OK,m,juvenil,13.42,3.76,ült,2016-04-22,large,vegetation
+1188,OK,m,juvenil,13.67,4.06,kökény,2016-04-22,large,feed_on
+1208,OK,m,juvenil,13.29,3.73,"harc 873, 873 győzött",2016-04-26,large,fight
+1211,OK,m,juvenil,13.58,4.1,járat,2016-04-26,large,tunnel
+1214,OK,m,intermediate,12.47,3.77,"harc 964, 964 győzött",2016-04-26,large,fight
+1224,OK,m,juvenil,12.88,3.6,mászott,2016-04-26,large,vegetation
+1245,OK,m,old,12.54,3.85,"járat, 138-al",2016-04-26,large,tunnel
+1247,OK,m,juvenil,12.4,3.79,mászott,2016-04-26,large,vegetation
+1258,OK,m,juvenil,13.54,3.74,1044-es járatban,2016-04-28,large,tunnel
+1267,OK,m,juvenil,12.88,3.73,"járat, 1268-al",2016-04-28,large,tunnel
+1272,OK,m,juvenil,12.61,3.38,ült,2016-04-28,large,vegetation
+1274,OK,m,juvenil,13.3,3.82,ült,2016-04-28,large,vegetation
+1276,OK,m,juvenil,12.58,3.39,ült,2016-04-28,large,vegetation
+1277,OK,m,intermediate,12.53,3.95,járat,2016-04-28,large,tunnel
+1279,OK,m,juvenil,12.62,3.48,ült,2016-04-28,large,vegetation
+1282,OK,m,juvenil,12.57,3.3,járat,2016-04-28,large,tunnel
+1294,OK,m,juvenil,12.78,3.61,ült,2016-05-02,large,vegetation
+1295,OK,m,juvenil,12.33,3.39,járat,2016-05-02,large,tunnel
+1300,OK,m,juvenil,12.52,3.83,1139 járat,2016-05-02,large,tunnel
+1306,OK,m,old,13.2,3.92,ült,2016-05-02,large,vegetation
+1310,OK,m,juvenil,12.95,3.91,pókolt,2016-05-02,large,mating
+1314,OK,m,juvenil,12.96,4.02,mászott,2016-05-02,large,vegetation
+1321,OK,m,juvenil,12.35,3.66,járat,2016-05-02,large,tunnel
+1322,OK,m,juvenil,13.38,3.93,harc 1323,2016-05-02,large,fight
+1323,OK,m,juvenil,12.95,4.17,harc 1322,2016-05-02,large,fight
+1332,XY,m,juvenil,13.47,4.12,ült,2016-05-02,large,vegetation
+1338,XY,m,juvenil,12.55,3.72,mászott,2016-05-02,large,vegetation
+1342,XY,m,juvenil,12.52,3.71,ült,2016-05-02,large,vegetation
+1352,OK,m,juvenil,12.68,3.62,ült,2016-05-03,large,vegetation
+1354,OK,m,juvenil,13.17,3.82,harc 1355,2016-05-03,large,tunnel
+1355,OK,m,juvenil,13.22,3.65,"harc 1354, győzött",2016-05-03,large,tunnel
+1357,OK,m,juvenil,12.93,3.94,989 járat,2016-05-03,large,tunnel
+1361,OK,m,juvenil,12.92,3.57,ült,2016-05-03,large,vegetation
+1362,OK,m,old,13.52,3.76,ült,2016-05-03,large,vegetation
+1363,OK,m,juvenil,13.34,4.21,járat,2016-05-03,large,tunnel
+1364,OK,m,juvenil,13.27,3.97,patanyomban,2016-05-03,large,vegetation
+1367,OK,m,intermediate,13.59,3.9,mászott,2016-05-03,large,vegetation
+1368,OK,m,juvenil,12.33,3.57,mászott,2016-05-03,large,vegetation
+1369,OK,m,intermediate,13.12,3.85,járat,2016-05-03,large,tunnel
+1378,OK,m,juvenil,12.5,3.45,ült,2016-05-03,large,vegetation
+1384,OK,m,juvenil,13.58,4.16,mászott,2016-05-03,large,vegetation
+1387,OK,m,juvenil,12.91,3.49,ült,2016-05-03,large,vegetation
+1392,OK,m,juvenil,12.96,3.94,ült,2016-05-03,large,vegetation
+1394,OK,m,intermediate,13.17,3.65,mászott,2016-05-03,large,vegetation
+1397,OK,m,juvenil,12.83,4.04,ült,2016-05-03,large,vegetation
+1408,OK,m,juvenil,12.98,3.98,mászott,2016-05-03,large,vegetation
+1413,OK,m,juvenil,12.96,3.55,ült,2016-05-03,large,vegetation
+1423,OK,m,juvenil,12.45,3.22,mászott,2016-05-04,large,vegetation
+1426,OK,m,intermediate,13.03,3.69,"járat, 1296-tal",2016-05-04,large,tunnel
+1461,OK,m,juvenil,12.96,3.79,mászott,2016-05-04,large,vegetation
+1476,OK,m,juvenil,13.39,3.61,ült,2016-05-04,large,vegetation
+1478,OK,m,juvenil,12.67,4,ült,2016-05-04,large,vegetation
+1479,OK,m,juvenil,12.34,3.38,ült,2016-05-04,large,vegetation
+1480,OK,m,juvenil,12.56,3.4,ült,2016-05-04,large,vegetation
+1512,OK,m,juvenil,13.21,4.11,járat (jelölt),2016-05-05,large,tunnel
+1513,OK,m,juvenil,13.5,4.08,281 járat,2016-05-05,large,tunnel
+1523,OK,m,juvenil,12.33,3.61,ült,2016-05-05,large,vegetation
+1527,OK,m,juvenil,12.86,3.28,mászott,2016-05-05,large,vegetation
+1531,OK,m,intermediate,13.18,4.18,1131 járat,2016-05-05,large,tunnel
+1532,OK,m,juvenil,12.68,3.79,mászott,2016-05-05,large,vegetation
+1535,OK,m,intermediate,12.85,3.72,ült,2016-05-05,large,vegetation
+1537,OK,m,intermediate,12.72,4.09,járat,2016-05-05,large,tunnel
+1546,XY,m,juvenil,13.24,3.65,419 járat,2016-05-05,large,tunnel
+1552,OK,m,juvenil,13.18,3.6,ült,2016-05-06,large,vegetation
+1554,OK,m,juvenil,12.99,4.16,mászott,2016-05-06,large,vegetation
+1558,OK,m,intermediate,13.06,3.6,járat,2016-05-06,large,tunnel
+1559,OK,m,intermediate,13.1,3.74,járat,2016-05-06,large,tunnel
+1561,OK,m,juvenil,13.52,3.97,1311 járat,2016-05-06,large,tunnel
+1573,OK,m,intermediate,13.6,4.28,járat,2016-05-06,large,tunnel
+1575,OK,m,juvenil,12.8,4.01,járat,2016-05-06,large,tunnel
+1576,OK,m,juvenil,13.93,4.09,járat,2016-05-06,large,tunnel
+1577,OK,m,juvenil,13.58,4.24,ült,2016-05-06,large,vegetation
+1590,OK,m,juvenil,12.97,4.23,járat,2016-05-06,large,tunnel
+1600,OK,m,juvenil,13.09,3.76,járat,2016-05-06,large,tunnel
+1602,OK,m,juvenil,12.6,3.6,mászott,2016-05-06,large,vegetation
+1608,OK,m,juvenil,12.51,3.6,járat,2016-05-07,large,tunnel
+1611,OK,m,juvenil,13.27,4.08,járat,2016-05-07,large,tunnel
+1615,OK,m,juvenil,12.93,3.46,járatban 1438-cal,2016-05-07,large,tunnel
+1616,OK,m,juvenil,12.65,3.61,ült,2016-05-07,large,vegetation
+1618,OK,m,juvenil,13.58,4.2,járat,2016-05-07,large,tunnel
+1620,OK,m,intermediate,13.6,3.46,járat,2016-05-07,large,tunnel
+1626,OK,m,juvenil,13.21,3.8,járatban 1627-tel,2016-05-07,large,tunnel
+1656,OK,m,juvenil,12.43,3.68,járat,2016-05-07,large,tunnel
+1658,OK,m,juvenil,13.3,4.3,harc 1659,2016-05-07,large,fight
+1659,OK,m,juvenil,13.34,4,harc 1658,2016-05-07,large,fight
+1662,NEWN,m,juvenil,12.57,3.5,mászott,2016-05-07,large,vegetation
+1675,OK,m,juvenil,12.66,3,járat,2016-05-12,large,tunnel
+1690,OK,m,juvenil,13.2,3.54,ült,2016-05-12,large,vegetation
+1693,OK,m,juvenil,12.96,3.94,1438-1615 járat,2016-05-12,large,tunnel
+1697,OK,m,juvenil,13.39,3.95,harc 1698,2016-05-12,large,fight
+1705,OK,m,juvenil,12.76,3.81,ült,2016-05-16,large,vegetation
+1707,OK,m,juvenil,12.45,3.23,járatban 1706-tal,2016-05-16,large,tunnel
+1710,OK,m,juvenil,12.82,3.93,1711 járat prób bejut,2016-05-16,large,fight
+1715,OK,m,juvenil,13.25,4.3,419 járatban pókolt,2016-05-16,large,mating
+1721,OK,m,juvenil,13.39,3.97,mászott,2016-05-16,large,vegetation
+1738,OK,m,juvenil,12.7,3.7,járat,2016-05-17,large,tunnel
+1743,OK,m,juvenil,12.57,3.33,mászott,2016-05-17,large,vegetation
+1758,OK,m,juvenil,12.64,3.48,járat,2016-05-18,large,tunnel
+1770,OK,m,intermediate,13.59,4.07,ült,2016-05-19,large,vegetation
+1784,OK,m,juvenil,12.7,3.94,mászott,2016-05-23,large,vegetation
+110,,m,juvenil,13.15,4.11,mászott,2016-03-23,large,vegetation
+111,,m,juvenil,12.52,4.01,patanyomban,2016-03-23,large,vegetation
+113,,m,juvenil,11.03,1.55,ült,2016-03-23,med,vegetation
+114,,m,juvenil,12.82,3.18,mászott,2016-03-23,med,vegetation
+115,,m,juvenil,11.93,2.78,ült,2016-03-23,med,vegetation
+116,,m,juvenil,13.3,3.97,mászott,2016-03-23,large,vegetation
+117,,m,juvenil,12.56,3.74,járat,2016-03-23,large,tunnel
+118,,m,juvenil,12.5,2.85,patanyomban,2016-03-23,large,vegetation
+119,,m,juvenil,11.17,1.56,patanyomban,2016-03-23,med,vegetation
+120,,m,juvenil,13.25,3.6,patanyomban,2016-03-23,large,vegetation
+1197,,m,juvenil,12.2,3.2,ült,2016-04-23,med,vegetation
+1199,,m,juvenil,12.03,2.57,ült,2016-04-23,med,vegetation
+1200,,m,juvenil,12.25,3.42,mászott,2016-04-23,med,vegetation
+1201,,m,juvenil,11.78,2.35,ült,2016-04-23,med,vegetation
+1202,,m,juvenil,11.45,2.46,járat,2016-04-23,med,tunnel
+344,OK,m,juvenil,12.74,3.81,járat,2016-03-31,large,tunnel
+444,OK,m,juvenil,12.28,3.62,ült,2016-04-02,med,vegetation
+1244,OK,m,juvenil,10.75,1.68,"harc, 620-al",2016-04-26,med,fight
+1544,OK,m,juvenil,12.9,3.97,járat,2016-05-05,large,tunnel
+44,OK,m,juvenil,11.96,4.05,mászott,2016-03-21,med,vegetation
+441,OK,m,juvenil,12.42,3.5,járat,2016-04-01,large,tunnel
+443,OK,m,juvenil,10.8,1.88,mászott,2016-04-02,med,vegetation
+445,OK,m,juvenil,12.67,4.06,ült,2016-04-02,large,vegetation
+446,OK,m,juvenil,11.99,2.53,járat,2016-04-02,med,tunnel
+447,OK,m,old,11.38,1.96,ült,2016-04-02,med,vegetation
+744,OK,m,juvenil,13.09,4.02,járat,2016-04-12,large,tunnel
+944,OK,m,juvenil,12.24,3.3,zsálya,2016-04-16,med,feed_on
+1440,OK,m,juvenil,13,3.72,"harc 1441, győzött",2016-05-04,large,fight
+1441,OK,m,juvenil,13.05,3.54,"harc 1440, vesztett",2016-05-04,large,fight
+1644,OK,m,juvenil,12.59,3.79,ült,2016-05-07,large,vegetation
+1744,OK,m,juvenil,12.89,3.74,ült,2016-05-17,large,vegetation
+448,OK,m,juvenil,11.83,2.24,mászott,2016-04-02,med,vegetation
